@@ -5,7 +5,7 @@
 Project P1.
 
 ## Details for teaching team
-No login required.
+No login required. 
 
 
 ## Outside code
